@@ -1,0 +1,716 @@
+[
+  {
+    "code": "1101",
+    "streetAddress": "ΑΝΑΞΑΓΟΡΑ 6-8",
+    "postcode": "10010",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1104",
+    "streetAddress": "ΚΩΛΕΤΗ 14Α",
+    "postcode": "10681",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1106",
+    "streetAddress": "ΑΓΙΑΣ ΕΛΕΟΥΣΗΣ 10",
+    "postcode": "10554",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1112",
+    "streetAddress": "ΓΡΗΓ. ΑΥΞΕΝΤΙΟΥ 30",
+    "postcode": "15771",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1113",
+    "streetAddress": "ΕΥΕΛΠΙΔΩΝ 47",
+    "postcode": "11362",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1114",
+    "streetAddress": "ΚΟΥΡΤΙΔΟΥ 184",
+    "postcode": "11143",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1117",
+    "streetAddress": "ΔΑΜΑΡΕΩΣ 175",
+    "postcode": "11632",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1118",
+    "streetAddress": "ΚΗΦΙΣΙΑΣ/ ΜΕΓΑΡΟ ΑΤΡΙΝΑ 32",
+    "postcode": "15125",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1125",
+    "streetAddress": "ΜΕΤΣΟΒΟΥ 4",
+    "postcode": "10682",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1129",
+    "streetAddress": "ΑΡΓΟΣΤΟΛΙΟΥ 39",
+    "postcode": "17342",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1130",
+    "streetAddress": "ΕΛ.ΒΕΝΙΖΕΛΟΥ 195",
+    "postcode": "17673",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1131",
+    "streetAddress": "ΕΛ.ΒΕΝΙΖΕΛΟΥ 1",
+    "postcode": "14231",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1132",
+    "streetAddress": "ΛΕΩΦ.ΣΥΓΓΡΟΥ 251",
+    "postcode": "17110",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1133",
+    "streetAddress": "ΑΛΚΥΟΝΗΣ 19",
+    "postcode": "17561",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1134",
+    "streetAddress": "ΑΓ. ΠΑΡΑΣΚΕΥΗΣ ΚΑΙ ΑΙΣΧΥΛΟΥ 29",
+    "postcode": "15210",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1135",
+    "streetAddress": "ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΠΛΑΤΑΙΩΝ 57",
+    "postcode": "15124",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1136",
+    "streetAddress": "ΔΗΜΟΚΡΑΤΙΑΣ & ΠΡΙΓΚ ΟΛΓΑΣ 3",
+    "postcode": "13510",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1137",
+    "streetAddress": "ΑΛΑΤΣΑΤΩΝ 93 ΚΑΙ ΚΗΦΙΣΟΥ 44",
+    "postcode": "12241",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1138",
+    "streetAddress": "ΤΖ. ΚΕΝΕΝΤΥ 146 ΚΑΙ ΑΙΓΑΙΟΥ 31",
+    "postcode": "12136",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1139",
+    "streetAddress": "ΓΟΥΝΑΡΗ 227",
+    "postcode": "16674",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1145",
+    "streetAddress": "Λ ΗΡΑΚΛΕΙΟΥ 420",
+    "postcode": "14122",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1151",
+    "streetAddress": "ΕΛ ΒΕΝΙΖΕΛΟΥ 100",
+    "postcode": "15561",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1152",
+    "streetAddress": "ΑΝΔΡΙΑΝΟΥΠΟΛΕΩΣ 45",
+    "postcode": "16121",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1153",
+    "streetAddress": "ΑΧΑΡΝΩΝ 43",
+    "postcode": "14561",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1157",
+    "streetAddress": "ΧΡ.ΛΑΔΑ 48",
+    "postcode": "12132",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1159",
+    "streetAddress": "ΘΗΣΕΩΣ 55",
+    "postcode": "17671",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1173",
+    "streetAddress": "ΒΟΥΛΙΑΓΜΕΝΗΣ 387",
+    "postcode": "16346",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1175",
+    "streetAddress": "ΚΗΦΙΣΙΑΣ 160",
+    "postcode": "15410",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1179",
+    "streetAddress": "ΧΡΙΣΤΙΑΝΟΥΠΟΛΕΩΣ 103",
+    "postcode": "11146",
+    "prefecture": "ΑΘΗΝΩΝ"
+  },
+  {
+    "code": "1201",
+    "streetAddress": "2ΑΣ ΜΕΡΑΡΧΙΑΣ 12",
+    "postcode": "18535",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1203",
+    "streetAddress": "ΚΟΛΟΚΟΤΡΩΝΗ 140",
+    "postcode": "18510",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1204",
+    "streetAddress": "Κ.ΜΑΥΡΟΜΙΧΑΛΗ 3",
+    "postcode": "18510",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1205",
+    "streetAddress": "ΣΩΚΡΑΤΟΥΣ 15-17",
+    "postcode": "18648",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1206",
+    "streetAddress": "ΝΟΤΑΡΑ 38-40",
+    "postcode": "18510",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1207",
+    "streetAddress": "ΑΚΤΗ ΜΙΑΟΥΛΗ 83",
+    "postcode": "18538",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1211",
+    "streetAddress": "ΚΥΠΡΟΥ 2-4",
+    "postcode": "18346",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1220",
+    "streetAddress": "ΚΑΙΣΑΡΕΙΑΣ 32",
+    "postcode": "18450",
+    "prefecture": "ΠΕΙΡΑΙΑ"
+  },
+  {
+    "code": "1302",
+    "streetAddress": "ΠΟΥΡΑΙΜΗ 10",
+    "postcode": "13671",
+    "prefecture": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ"
+  },
+  {
+    "code": "1303",
+    "streetAddress": "ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ ΚΑΙ ΔΗΜΗΤΡΟΣ 8",
+    "postcode": "19200",
+    "prefecture": "ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
+  },
+  {
+    "code": "1304",
+    "streetAddress": "Β.ΚΩΝ/ΝΟΥ 156",
+    "postcode": "19400",
+    "prefecture": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ"
+  },
+  {
+    "code": "1312",
+    "streetAddress": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 43",
+    "postcode": "15351",
+    "prefecture": "ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ"
+  },
+  {
+    "code": "1411",
+    "streetAddress": "ΕΠΑΜΕΙΝΩΝΔΑ 11",
+    "postcode": "32200",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "code": "1421",
+    "streetAddress": "ΣΟΦΟΚΛΕΟΥΣ 4",
+    "postcode": "32100",
+    "prefecture": "ΒΟΙΩΤΙΑΣ"
+  },
+  {
+    "code": "1531",
+    "streetAddress": "ΛΙΜΑΝΙ ΜΕΣΟΛΟΓΓΙ",
+    "postcode": "30200",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "code": "1552",
+    "streetAddress": "ΜΑΝΔΗΛΑΡΑ 5-7",
+    "postcode": "30100",
+    "prefecture": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ"
+  },
+  {
+    "code": "1611",
+    "streetAddress": "Χ.ΤΡΙΚΟΥΠΗ 21",
+    "postcode": "36100",
+    "prefecture": "ΕΥΡΥΤΑΝΙΑΣ"
+  },
+  {
+    "code": "1722",
+    "streetAddress": "ΚΥΜΗ",
+    "postcode": "34003",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "code": "1732",
+    "streetAddress": "ΔΗΜΑΡΧΟΥ ΣΚΟΥΡΑ-ΔΥΟ ΔΕΝΔΡΑ ΔΟΚΟΣ",
+    "postcode": "34100",
+    "prefecture": "ΕΥΒΟΙΑΣ"
+  },
+  {
+    "code": "1832",
+    "streetAddress": "ΑΝΘΗΛΗΣ & ΚΑΝΑΡΗ",
+    "postcode": "35100",
+    "prefecture": "ΦΘΙΩΤΙΔΟΣ"
+  },
+  {
+    "code": "1912",
+    "streetAddress": "ΑΘΑΝΑΣΙΟΥ ΔΙΑΚΟΥ ΚΑΙ ΑΝΔΡΟΥΤΣΟΥ",
+    "postcode": "33100",
+    "prefecture": "ΦΩΚΙΔΑΣ"
+  },
+  {
+    "code": "2111",
+    "streetAddress": "ΓΟΥΝΑΡΗ 172",
+    "postcode": "21200",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "code": "2131",
+    "streetAddress": "ΗΡΑΚΛΕΟΥΣ 4",
+    "postcode": "21100",
+    "prefecture": "ΑΡΓΟΛΙΔΑΣ"
+  },
+  {
+    "code": "2231",
+    "streetAddress": "ΛΑΓΟΠΑΤΗ 8",
+    "postcode": "22100",
+    "prefecture": "ΑΡΚΑΔΙΑΣ"
+  },
+  {
+    "code": "2311",
+    "streetAddress": "ΚΑΝΕΛΛΟΠΟΥΛΩΝ 36",
+    "postcode": "25100",
+    "prefecture": "ΑΧΑΙΑΣ"
+  },
+  {
+    "code": "2331",
+    "streetAddress": "ΚΑΝΑΚΑΡΗ 84-86",
+    "postcode": "26110",
+    "prefecture": "ΑΧΑΙΑΣ"
+  },
+  {
+    "code": "2334",
+    "streetAddress": "ΑΚΤΗ ΔΥΜΑΙΩΝ 18",
+    "postcode": "26331",
+    "prefecture": "ΑΧΑΙΑΣ"
+  },
+  {
+    "code": "2411",
+    "streetAddress": "ΔΕΛΗΓΙΑΝΝΗ 23",
+    "postcode": "27200",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "code": "2412",
+    "streetAddress": "ΚΑΤΑΚΟΛΟΥ ΚΑΙ ΠΡΟΥΣΣΗΣ",
+    "postcode": "27100",
+    "prefecture": "ΗΛΕΙΑΣ"
+  },
+  {
+    "code": "2513",
+    "streetAddress": "ΠΑΤΡΩΝ 83",
+    "postcode": "20100",
+    "prefecture": "ΚΟΡΙΝΘΙΑΣ"
+  },
+  {
+    "code": "2632",
+    "streetAddress": "ΜΕΝΕΛΑΟΥ 74",
+    "postcode": "23100",
+    "prefecture": "ΛΑΚΩΝΙΑΣ"
+  },
+  {
+    "code": "2711",
+    "streetAddress": "ΕΥΑΓΓΕΛΙΣΤΡΙΑΣ 4",
+    "postcode": "24101",
+    "prefecture": "ΜΕΣΣΗΝΙΑΣ"
+  },
+  {
+    "code": "3111",
+    "streetAddress": "Α ΠΑΠΑΝΔΡΕΟΥ 22",
+    "postcode": "43100",
+    "prefecture": "ΚΑΡΔΙΤΣΑΣ"
+  },
+  {
+    "code": "3231",
+    "streetAddress": "ΠΑΠΑΝΑΣΤΑΣΙΟΥ 52",
+    "postcode": "41110",
+    "prefecture": "ΛΑΡΙΣΗΣ"
+  },
+  {
+    "code": "3232",
+    "streetAddress": "ΠΑΤΡΟΚΛΟΥ 14",
+    "postcode": "41110",
+    "prefecture": "ΛΑΡΙΣΗΣ"
+  },
+  {
+    "code": "3321",
+    "streetAddress": "ΞΕΝΟΦΩΝΤΟΣ 1",
+    "postcode": "38333",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "code": "3323",
+    "streetAddress": "ΤΕΡΜΑ ΑΓ.ΝΕΚΤΑΡΙΟΥ",
+    "postcode": "38446",
+    "prefecture": "ΜΑΓΝΗΣΙΑΣ"
+  },
+  {
+    "code": "3412",
+    "streetAddress": "ΚΟΛΟΚΟΤΡΩΝΗ ΚΑΙ ΠΤΟΛΕΜΑΙΩΝ 2",
+    "postcode": "42100",
+    "prefecture": "ΤΡΙΚΑΛΩΝ"
+  },
+  {
+    "code": "4112",
+    "streetAddress": "ΛΕΩΦ.ΘΕΣΣΑΛΟΝΙΚΗΣ 131",
+    "postcode": "59100",
+    "prefecture": "ΗΜΑΘΙΑΣ"
+  },
+  {
+    "code": "4211",
+    "streetAddress": "ΤΑΝΤΑΛΟΥ 30",
+    "postcode": "54629",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4214",
+    "streetAddress": "ΒΑΣ.ΗΡΑΚΛΕΙΟΥ 38",
+    "postcode": "54623",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4215",
+    "streetAddress": "ΚΡΥΣΤΑΛΛΗ 4",
+    "postcode": "54626",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4216",
+    "streetAddress": "ΤΑΚΑΝΤΖΑ 8-10",
+    "postcode": "54640",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4217",
+    "streetAddress": "Ν.ΠΛΑΣΤΗΡΑ 57",
+    "postcode": "54008",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4222",
+    "streetAddress": "ΛΟΥΤΡΩΝ 51",
+    "postcode": "57200",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4224",
+    "streetAddress": "26ΗΣ ΟΚΤΩΒΡΙΟΥ 35",
+    "postcode": "54012",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4228",
+    "streetAddress": "ΒΑΣ.ΟΛΓΑΣ 188",
+    "postcode": "54008",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4232",
+    "streetAddress": "ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ 110",
+    "postcode": "55134",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4233",
+    "streetAddress": "ΕΙΡΗΝΗΣ 17",
+    "postcode": "54630",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4234",
+    "streetAddress": "ΒΑΣ.ΓΕΩΡΓΙΟΥ ΚΑΙ ΑΘ.ΔΙΑΚΟΥ",
+    "postcode": "57008",
+    "prefecture": "ΘΕΣΣΑΛΟΝΙΚΗΣ"
+  },
+  {
+    "code": "4311",
+    "streetAddress": "ΛΕΩΦ.ΚΥΚΝΩΝ 2",
+    "postcode": "52100",
+    "prefecture": "ΚΑΣΤΟΡΙΑΣ"
+  },
+  {
+    "code": "4411",
+    "streetAddress": "21ΗΣ ΙΟΥΝΙΟΥ 50",
+    "postcode": "61100",
+    "prefecture": "ΚΙΛΚΙΣ"
+  },
+  {
+    "code": "4521",
+    "streetAddress": "Κ ΤΑΛΙΑΔΟΥΡΗ 72",
+    "postcode": "51100",
+    "prefecture": "ΓΡΕΒΕΝΩΝ"
+  },
+  {
+    "code": "4531",
+    "streetAddress": "ΦΙΛΙΠΠΟΥ 4",
+    "postcode": "50200",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "code": "4541",
+    "streetAddress": "ΓΚΕΡΤΣΟΥ 22",
+    "postcode": "50100",
+    "prefecture": "ΚΟΖΑΝΗΣ"
+  },
+  {
+    "code": "4621",
+    "streetAddress": "Κ.ΣΤΑΜΚΟΥ 20",
+    "postcode": "58100",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "code": "4631",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "58200",
+    "prefecture": "ΠΕΛΛΑΣ"
+  },
+  {
+    "code": "4711",
+    "streetAddress": "ΧΑΝΤΖΟΓΛΟΥ 48",
+    "postcode": "60100",
+    "prefecture": "ΠΙΕΡΙΑΣ"
+  },
+  {
+    "code": "4812",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "53100",
+    "prefecture": "ΦΛΩΡΙΝΗΣ"
+  },
+  {
+    "code": "4922",
+    "streetAddress": "ΧΑΡΙΛΑΟΥ ΤΡΙΚΟΥΠΗ 33",
+    "postcode": "63100",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "code": "4923",
+    "streetAddress": "ΚΟΥΤΣΑΝΤΩΝΗ 12",
+    "postcode": "63200",
+    "prefecture": "ΧΑΛΚΙΔΙΚΗΣ"
+  },
+  {
+    "code": "5111",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "66100",
+    "prefecture": "ΔΡΑΜΑΣ"
+  },
+  {
+    "code": "5211",
+    "streetAddress": "ΑΓ ΔΗΜΗΤΡΙΟΥ 2",
+    "postcode": "68100",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "code": "5231",
+    "streetAddress": "ΙΠΠΟΚΡΑΤΟΥΣ 30",
+    "postcode": "68200",
+    "prefecture": "ΕΒΡΟΥ"
+  },
+  {
+    "code": "5321",
+    "streetAddress": "ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ 20",
+    "postcode": "65110",
+    "prefecture": "ΚΑΒΑΛΑΣ"
+  },
+  {
+    "code": "5411",
+    "streetAddress": "ΜΕΣΟΛΟΓΓΙΟΥ 13",
+    "postcode": "67100",
+    "prefecture": "ΞΑΝΘΗΣ"
+  },
+  {
+    "code": "5511",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "69100",
+    "prefecture": "ΡΟΔΟΠΗΣ"
+  },
+  {
+    "code": "5621",
+    "streetAddress": "ΜΕΡΑΡΧΙΑΣ 50",
+    "postcode": "62125",
+    "prefecture": "ΣΕΡΡΩΝ"
+  },
+  {
+    "code": "6111",
+    "streetAddress": "ΠΕΡΙΦΕΡΕΙΑΚΗ 56 56",
+    "postcode": "47100",
+    "prefecture": "ΑΡΤΑΣ"
+  },
+  {
+    "code": "6211",
+    "streetAddress": "ΕΛΕΥΘΕΡΙΑΣ 8",
+    "postcode": "46100",
+    "prefecture": "ΘΕΣΠΡΩΤΙΑΣ"
+  },
+  {
+    "code": "6311",
+    "streetAddress": "ΔΟΜΠΟΛΗ 36",
+    "postcode": "45332",
+    "prefecture": "ΙΩΑΝΝΙΝΩΝ"
+  },
+  {
+    "code": "6411",
+    "streetAddress": "ΠΟΛΥΤΕΧΝΕΙΟΥ 15",
+    "postcode": "48100",
+    "prefecture": "ΠΡΕΒΕΖΗΣ"
+  },
+  {
+    "code": "7121",
+    "streetAddress": "ΘΗΡΑ",
+    "postcode": "84700",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "code": "7151",
+    "streetAddress": "ΧΩΡΑ ΝΑΞΟΥ",
+    "postcode": "84300",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "code": "7161",
+    "streetAddress": "ΠΑΡΟΙΚΙΑ",
+    "postcode": "84400",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "code": "7171",
+    "streetAddress": "ΝΙΚΗΦΟΡΟΥ ΜΑΝΔΗΛΑΡΑ 31",
+    "postcode": "84100",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "code": "7172",
+    "streetAddress": "ΔΡΑΦΑΚΙ",
+    "postcode": "84600",
+    "prefecture": "ΚΥΚΛΑΔΩΝ"
+  },
+  {
+    "code": "7231",
+    "streetAddress": "Π.ΚΟΥΝΤΟΥΡΙΩΤΟΥ 87",
+    "postcode": "81100",
+    "prefecture": "ΛΕΣΒΟΥ"
+  },
+  {
+    "code": "7322",
+    "streetAddress": "ΣΑΜΟΣ",
+    "postcode": "83100",
+    "prefecture": "ΣΑΜΟΥ"
+  },
+  {
+    "code": "7411",
+    "streetAddress": "Μ.ΛΙΒΑΝΟΥ 66",
+    "postcode": "82100",
+    "prefecture": "ΧΙΟΥ"
+  },
+  {
+    "code": "7531",
+    "streetAddress": "Λ.ΚΟΥΝΤΟΥΡΙΩΤΟΥ 7",
+    "postcode": "85300",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΟΥ"
+  },
+  {
+    "code": "7542",
+    "streetAddress": "ΓΕΩΡΓΙΟΥ ΜΑΥΡΟΥ 2",
+    "postcode": "85100",
+    "prefecture": "ΔΩΔΕΚΑΝΗΣΟΥ"
+  },
+  {
+    "code": "8110",
+    "streetAddress": "Λ.ΚΝΩΣΣΟΥ & ΝΑΘΕΝΑ",
+    "postcode": "71409",
+    "prefecture": "ΗΡΑΚΛΕΙΟΥ"
+  },
+  {
+    "code": "8221",
+    "streetAddress": "ΕΠΙΜΕΝΙΔΟΥ 20",
+    "postcode": "72100",
+    "prefecture": "ΛΑΣΙΘΙΟΥ"
+  },
+  {
+    "code": "8341",
+    "streetAddress": "ΣΤΑΜΑΘΙΟΥΔΑΚΗ 8",
+    "postcode": "74100",
+    "prefecture": "ΡΕΘΥΜΝΟΥ"
+  },
+  {
+    "code": "8431",
+    "streetAddress": "ΤΖΑΝΑΚΑΚΗ 3",
+    "postcode": "73134",
+    "prefecture": "ΧΑΝΙΩΝ"
+  },
+  {
+    "code": "9111",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "29100",
+    "prefecture": "ΖΑΚΥΝΘΟΥ"
+  },
+  {
+    "code": "9211",
+    "streetAddress": "ΣΑΜΑΡΑ 13",
+    "postcode": "49100",
+    "prefecture": "ΚΕΡΚΥΡΑΣ"
+  },
+  {
+    "code": "9311",
+    "streetAddress": "ΔΙΟΙΚΗΤΗΡΙΟ",
+    "postcode": "28100",
+    "prefecture": "ΚΕΦΑΛΛΗΝΙΑΣ"
+  },
+  {
+    "code": "9421",
+    "streetAddress": "8ΗΣ ΜΕΡΑΡΧΙΑΣ",
+    "postcode": "31100",
+    "prefecture": "ΛΕΥΚΑΔΑΣ"
+  }
+]
